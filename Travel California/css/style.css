@@ -1,0 +1,9 @@
+.navbarstyle{
+    background-color: black;
+}
+.navItem{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
